@@ -4,9 +4,9 @@ Congrats! You have a working install of Git!
 
 What we learned!
 
-- git clone -
-- git add -
-- git commit -
-- git log -
-- git push -
-- git pull -
+- git clone - DONE!
+- git add - DONE!
+- git commit - DONE!
+- git log - DONE!
+- git push - DONE!
+- git pull - DONE!
